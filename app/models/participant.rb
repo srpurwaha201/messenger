@@ -1,4 +1,4 @@
 class Participant < ActiveRecord::Base
-  belongs_to :chatroom
-  belongs_to :user
+  # has_many :chatrooms
+  # has_many :users
 end
