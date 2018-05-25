@@ -1,0 +1,5 @@
+<h1><%=@chatTitle%></h1>
+<%= render 'message/messageform', message: @message, chatroom_id: params[:id]%>
+<%@messages.each do |m|%>
+  <p><b><%=m.user.email%> : </b><%=m.content%></p>
+<%end%>

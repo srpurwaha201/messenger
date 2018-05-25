@@ -1,6 +1,11 @@
 Rails.application.routes.draw do
+  get 'message/create'
+
+  get 'chat/show'
+
   get 'home/index'
   root 'home#index'
+  resources :messages, only: [:create]
   # devise_for :users
   devise_for :user
   # The priority is based upon order of creation: first created -> highest priority.
