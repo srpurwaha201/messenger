@@ -56,7 +56,7 @@ class ParticipantsController < ApplicationController
   def destroy
     @participant.destroy
     respond_to do |format|
-      format.html { redirect_to participants_url, notice: 'Participant was successfully destroyed.' }
+      format.html { redirect_to :back, notice: 'Participant was successfully destroyed.' }
       format.json { head :no_content }
     end
   end
@@ -64,7 +64,7 @@ class ParticipantsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_participant
-      @participant = Participant.find(params[:id])
+      @participant = Participant.where(user_id: params[:user_id], chatroom_id: params[:chatroom_id])[0]
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

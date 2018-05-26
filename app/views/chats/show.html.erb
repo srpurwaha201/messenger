@@ -1,5 +1,6 @@
 <h1><%=@chatTitle%></h1>
 <div>
+  <%= link_to "Show All Members", chats_showParticipants_path(:id => params[:id])%>
   <%=link_to "Add Member",new_participant_path(:chatroom_id => params[:id])%>
 </div>
 <%= render 'message/messageform', message: @message, chatroom_id: params[:id]%>

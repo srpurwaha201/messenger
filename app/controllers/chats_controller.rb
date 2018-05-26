@@ -5,4 +5,9 @@ class ChatsController < ApplicationController
     @messages = chat.get_Messages
     @message = Message.new
   end
+
+  def showParticipants
+    chat = Chatroom.find(params[:id])
+    @participants = chat.getParticipants
+  end
 end

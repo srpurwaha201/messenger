@@ -3,10 +3,15 @@ Rails.application.routes.draw do
 
   get 'chats/show'
 
+  get 'chats/showParticipants'
+
   get 'home/index'
   root 'home#index'
   resources :messages, only: [:create]
-  resources :participants
+  resources :participants, only: [:new, :create]
+
+  delete 'participants/destroy'
+
   # devise_for :users
   devise_for :user
   # The priority is based upon order of creation: first created -> highest priority.

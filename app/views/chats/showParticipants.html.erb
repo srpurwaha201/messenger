@@ -1,0 +1,4 @@
+<% @participants.each do |p| %>
+  <p><%=p.user.email%> <%=link_to "Remove User",participants_destroy_path(:user_id => p.user.id,:chatroom_id=> p.chatroom_id), method: :delete%></p>
+<% end %>
+

@@ -5,4 +5,9 @@ class Chatroom < ActiveRecord::Base
     messages = Message.where(chatroom_id: id)
     return messages
   end
+
+  def getParticipants
+    participants = Participant.where(chatroom_id: id)
+    return participants
+  end
 end
