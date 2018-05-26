@@ -1,4 +1,4 @@
-class ChatController < ApplicationController
+class ChatsController < ApplicationController
   def show
     chat = Chatroom.find(params[:id])
     @chatTitle = chat.name
