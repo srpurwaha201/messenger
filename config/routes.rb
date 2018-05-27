@@ -9,7 +9,7 @@ Rails.application.routes.draw do
   root 'home#index'
   resources :messages, only: [:create]
   resources :participants, only: [:new, :create]
-
+  resources :chatrooms
   delete 'participants/destroy'
 
   # devise_for :users
