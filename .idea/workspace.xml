@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7facf7-d47e-412d-87da-2ba51ca2e2b2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/messages/create.js.erb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/message.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/message.js" />
-      <change beforePath="$PROJECT_DIR$/app/views/chats/show.html.erb" afterPath="$PROJECT_DIR$/app/views/chats/show.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/message/_message_row.html.erb" afterPath="$PROJECT_DIR$/app/views/messages/_message_row.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/message/_messageform.html.erb" afterPath="$PROJECT_DIR$/app/views/messages/_messageform.html.erb" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -100,8 +96,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="484">
+              <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -175,11 +171,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="33" />
-    <option name="width" value="1295" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="5">
+    <option name="x" value="720" />
+    <option name="y" value="27" />
+    <option name="width" value="720" />
+    <option name="height" value="783" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -415,18 +411,18 @@
       <workItem from="1527832291038" duration="2262000" />
       <workItem from="1527835208668" duration="2609000" />
       <workItem from="1527837838799" duration="215000" />
-      <workItem from="1527838072048" duration="1405000" />
+      <workItem from="1527838072048" duration="2772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26689000" />
+    <option name="totallyTimeSpent" value="28056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="33" width="1440" height="783" extended-state="6" />
+    <frame x="720" y="27" width="720" height="783" extended-state="5" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22430556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855093" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
@@ -822,8 +818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="484">
+          <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding />
         </state>
       </provider>

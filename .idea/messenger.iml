@@ -34,7 +34,6 @@
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.6, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.5.2, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.4, RVM: ruby-2.3.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.11, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.8.0, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.1, RVM: ruby-2.3.3) [gem]" level="application" />
@@ -47,7 +46,6 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.4, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="daemons (v1.2.6, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug_inspector (v0.0.3, RVM: ruby-2.3.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="devise (v4.4.0, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="em-http-request (v1.1.5, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="em-socksify (v0.3.2, RVM: ruby-2.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.3.3) [gem]" level="application" />
