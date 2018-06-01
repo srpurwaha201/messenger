@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7facf7-d47e-412d-87da-2ba51ca2e2b2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/messenger.iml" afterPath="$PROJECT_DIR$/.idea/messenger.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
@@ -171,7 +172,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="720" />
     <option name="y" value="27" />
     <option name="width" value="720" />
@@ -411,15 +412,15 @@
       <workItem from="1527832291038" duration="2262000" />
       <workItem from="1527835208668" duration="2609000" />
       <workItem from="1527837838799" duration="215000" />
-      <workItem from="1527838072048" duration="2772000" />
+      <workItem from="1527838072048" duration="2963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28056000" />
+    <option name="totallyTimeSpent" value="28247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="27" width="720" height="783" extended-state="5" />
+    <frame x="720" y="27" width="720" height="783" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
